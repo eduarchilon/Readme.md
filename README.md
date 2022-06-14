@@ -9,11 +9,6 @@
    <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg">
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
