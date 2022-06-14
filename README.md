@@ -23,11 +23,11 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-       <a href="#Tecnologies>Tecnologies</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+     <li><a href="#Tenologies">Tecnologies</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -66,8 +66,6 @@ The app is available on both desktop and mobile devices.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Tecnologies
-                                
 
 ### Built With
 
@@ -85,6 +83,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- TECNOLOGIES -->
+## Tecnologies
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
