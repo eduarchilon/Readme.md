@@ -7,10 +7,6 @@
 <div align="center">
    <h4 align="center">Web application that allows us to maintain temperature control of beer barrels.</h4>
    <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg">
-
-  <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-  </p>
 </div>
 
 
