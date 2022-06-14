@@ -23,6 +23,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+       <a href="#Tecnologies>Tecnologies</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -65,6 +66,8 @@ The app is available on both desktop and mobile devices.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+### Tecnologies
+                                
 
 ### Built With
 
