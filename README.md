@@ -6,7 +6,7 @@
 <h2 align="center">BEER LOGGER</h2>
 <div align="center">
    <h4 align="center">Web application that allows us to maintain temperature control of beer barrels.</h4>
-   <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg" width="80" height="80">
+   <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg">
 
   <p align="center">
     An awesome README template to jumpstart your projects!
