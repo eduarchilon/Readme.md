@@ -3,10 +3,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<h3 align="center">BEER LOGGER</h3>
+<h2 align="center">BEER LOGGER</h2>
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="<h3 align="center">Best-README-Template</h3>" alt="Logo" width="80" height="80">
+    <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg><h3 align="center">Best-README-Template</h3>" alt="imagen-app" width="80" height="80">
   </a>
 
   <p align="center">
