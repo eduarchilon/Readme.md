@@ -5,10 +5,8 @@
 <br />
 <h2 align="center">BEER LOGGER</h2>
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg"
-    <h3 align="center">Best-README-Template</h3>" alt="imagen-app" width="80" height="80">
-  </a>
+   <h4 align="center">Web application that allows us to maintain temperature control of beer barrels.</h4>
+  <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg width="80" height="80">
 
   <p align="center">
     An awesome README template to jumpstart your projects!
