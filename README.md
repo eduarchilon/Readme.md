@@ -27,7 +27,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-     <li><a href="#Tecnologies">Tecnologies</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -69,23 +68,17 @@ The app is available on both desktop and mobile devices.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This web application runs under the following technologies:
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [React-Router-DOM](https://www.npmjs.com/package/react-router-dom)
+* [Npm](https://www.npmjs.com/)
+* [Sass](https://sass-lang.com/)
+* [Vercel](https://vercel.com/solutions/react)
+* [Prettier](https://prettier.io/docs/en/install.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- TECNOLOGIES -->
-## Tecnologies
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
