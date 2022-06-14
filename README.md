@@ -5,8 +5,8 @@
 <br />
 <h2 align="center">BEER LOGGER</h2>
 <div align="center">
-   <br />
    <h4 align="center">Web application that allows us to maintain temperature control of beer barrels.</h4>
+   <br />
    <img src="https://eldiario.com/wp-content/uploads/2020/09/mario.jpg">
    <br />
    <br />
@@ -17,6 +17,8 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+   <br />
+   <br />
   <summary>List of contents</summary>
   <ol>
     <li>
