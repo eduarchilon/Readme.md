@@ -106,7 +106,12 @@ This web application runs under the following technologies:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Matias Tonello - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Tomas Saquilan - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Javier Valdez  - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Santiago Piedrafita - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Eduar Chilon - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jazmin De Stefano - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
