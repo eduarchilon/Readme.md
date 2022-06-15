@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<h2 align="center">BEER LOGGER</h2>
+<h1 align="center">BEER LOGGER</h1>
 <div align="center">
    <h4 align="center">Web application that allows us to maintain temperature control of beer barrels.</h4>
    <br />
